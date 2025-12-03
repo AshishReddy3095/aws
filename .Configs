@@ -17,6 +17,23 @@ Double click “servers” folder present at the left side in project explorer, 
 index.jsp ->Run as->Maven Clean, Maven Install,Maven Test,Maven Build
 index.jsp ->Run as->Run on server, click on OK
 
+Git Commands:
+
+create a folder with a file open terminal (or) directly push into git from eclipse
+
+git init
+
+git remote add origin "Git URL"
+
+git add .
+
+git branch -M main
+
+git commit -m "Intital commit"
+
+git push -u add origin 
+
+
 Docker
 Index.html – create simple html file saying hello world
 Dockerfile
